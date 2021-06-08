@@ -1,0 +1,4 @@
+>>> Warning 203 "case_1 procedure_1reader.c" Line 19(1,1): Condition always TRUE
+      Memory usage:   ROM=13%      RAM=5% - 10%
+      0 Errors,  1 Warnings.
+Build Successful.

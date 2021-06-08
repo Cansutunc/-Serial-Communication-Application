@@ -1,0 +1,22 @@
+[PROJECT]
+Target=case_1 procedure_2reader.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=case_1 procedure_2reader.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\Users\asus\Desktop\Microcontrollers experiment4\CASE1\Case_2 procedure_2\case_1 procedure_2reader]
+Type=4
+[mru-list]
+1=case_1 procedure_2reader.c
+[Opened Files]
+1=case_1 procedure_2reader.c
+2=
+[case_1 procedure_2reader.c]
+Type=4
+[Units]
+Count=1
+1=case_1 procedure_2reader (main)
